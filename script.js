@@ -109,6 +109,10 @@ $(document).ready(function() {
       }
     });
   }
+document.getElementById("hamburger").addEventListener("click", function() {
+  var navLinks = document.getElementById("nav-links");
+  navLinks.classList.toggle("active");
+});
   
 
  
