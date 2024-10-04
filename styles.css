@@ -61,8 +61,8 @@ body{
   text-transform: uppercase;
   font-size: 26px;
   font-weight: 700;
-  border-radius:8px;
-  height:50px;
+  border-radius:10px;
+  height:30px;
 }
 
 .logo .fa-bolt {
