@@ -75,9 +75,10 @@ body{
 
 .signature {
   width: 100px; 
-  height:50px; 
+  height:70px; 
   margin-right: 10px; 
-  border-radius:20px;
+  border-radius:30px;
+  padding-top:5px;
 }
 
 .header ul li:first-child {
