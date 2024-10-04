@@ -109,7 +109,12 @@ body{
   display: none;
 }
 
-
+.hamburger {
+  display: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+}
 /*---------------------------HomePage--------------------------*/
 
 .FirstElement{
